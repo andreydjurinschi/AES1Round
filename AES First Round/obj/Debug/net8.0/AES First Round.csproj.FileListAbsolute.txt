@@ -1,0 +1,14 @@
+C:\Users\Calculator\source\repos\AES First Round\AES First Round\bin\Debug\net8.0\AES First Round.exe
+C:\Users\Calculator\source\repos\AES First Round\AES First Round\bin\Debug\net8.0\AES First Round.deps.json
+C:\Users\Calculator\source\repos\AES First Round\AES First Round\bin\Debug\net8.0\AES First Round.runtimeconfig.json
+C:\Users\Calculator\source\repos\AES First Round\AES First Round\bin\Debug\net8.0\AES First Round.dll
+C:\Users\Calculator\source\repos\AES First Round\AES First Round\bin\Debug\net8.0\AES First Round.pdb
+C:\Users\Calculator\source\repos\AES First Round\AES First Round\obj\Debug\net8.0\AES First Round.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Calculator\source\repos\AES First Round\AES First Round\obj\Debug\net8.0\AES First Round.AssemblyInfoInputs.cache
+C:\Users\Calculator\source\repos\AES First Round\AES First Round\obj\Debug\net8.0\AES First Round.AssemblyInfo.cs
+C:\Users\Calculator\source\repos\AES First Round\AES First Round\obj\Debug\net8.0\AES First Round.csproj.CoreCompileInputs.cache
+C:\Users\Calculator\source\repos\AES First Round\AES First Round\obj\Debug\net8.0\AES First Round.dll
+C:\Users\Calculator\source\repos\AES First Round\AES First Round\obj\Debug\net8.0\refint\AES First Round.dll
+C:\Users\Calculator\source\repos\AES First Round\AES First Round\obj\Debug\net8.0\AES First Round.pdb
+C:\Users\Calculator\source\repos\AES First Round\AES First Round\obj\Debug\net8.0\AES First Round.genruntimeconfig.cache
+C:\Users\Calculator\source\repos\AES First Round\AES First Round\obj\Debug\net8.0\ref\AES First Round.dll
